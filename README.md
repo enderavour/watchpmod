@@ -1,4 +1,4 @@
-### watchpmod - Linux kernel module, which sets watchpoint to given address and calls read/write callbacks
+# watchpmod - Linux kernel module, which sets watchpoint to given address and calls read/write callbacks
 
 ## Description
 
